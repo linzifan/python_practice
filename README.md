@@ -12,9 +12,6 @@ Credit: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
 ----------
 
 **第 0000 题：**将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
-类似于图中效果
-
-![头像](http://i.imgur.com/sg2dkuY.png?1)
 
 **第 0001 题：**做为 Apple Store App 独立开发者，你要搞限时促销，为你的应用**生成激活码**（或者优惠券），使用 Python 如何生成 200 个激活码（或者优惠券）？
 
@@ -38,7 +35,6 @@ Credit: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
 
 ![字母验证码](http://i.imgur.com/aVhbegV.jpg)
 
-- [阅读资料](http://stackoverflow.com/questions/2823316/generate-a-random-letter-in-python)
 
 **第 0011 题：** 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。
 
