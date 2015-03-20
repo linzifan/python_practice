@@ -1,13 +1,6 @@
-
 # coding: utf-8
-
-# In[1]:
-
 import random
-
-
-# In[32]:
-
+random.seed(123)
 def codeGen(number, length = 8):
     codefile = open('codes.txt', 'w')
     if number <= 0:
@@ -23,14 +16,5 @@ def codeGen(number, length = 8):
         count += 1
         if count > number:
             break
-
-
-# In[35]:
-
+    
 codeGen(200)
-
-
-# In[ ]:
-
-
-
