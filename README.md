@@ -1,13 +1,11 @@
 ## Python 练习册，每天一个小程序 ##
 
-Credit: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
+> Credit: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
 
 #### 说明： ####
 
-
 - 本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！
 
-> Talk is cheap. Show me the code.--Linus Torvalds
 
 ----------
 
