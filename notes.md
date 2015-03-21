@@ -7,3 +7,11 @@ When the Python interpreter reads a source file, it executes all of the code fou
 - Encoding
 
     [字符编码详解](http://www.crifan.com/files/doc/docbook/char_encoding/release/html/char_encoding.html)
+    
+    [字符编码笔记：ASCII，Unicode和UTF-8 - 阮一峰](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
+
+- [Python简史](http://www.cnblogs.com/vamei/archive/2013/02/06/2892628.html)
+
+- [Linux的概念和体系 - Vamei](http://www.cnblogs.com/vamei/archive/2012/10/10/2718229.html)
+
+- [Python快速教程 - Vamei](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
