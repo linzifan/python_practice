@@ -15,3 +15,8 @@ When the Python interpreter reads a source file, it executes all of the code fou
 - [Linux的概念和体系 - Vamei](http://www.cnblogs.com/vamei/archive/2012/10/10/2718229.html)
 
 - [Python快速教程 - Vamei](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+
+- 标准库(standard library) 
+  1. 文字处理：`re`, `string`, `textwrap`
+  2. 日期和时间：`time`, `datetime`
+  3. 数学运算：`numpy`
