@@ -54,30 +54,26 @@
 
 
 - [ ] **第 0014 题：** 纯文本文件 student.txt为学生信息, 里面的内容（包括花括号）如下所示：
-
+```
     {
-    	"1":["张三",150,120,100],
-    	"2":["李四",90,99,95],
-    	"3":["王五",60,66,68]
+        "1":["张三",150,120,100],
+        "2":["李四",90,99,95],
+        "3":["王五",60,66,68]
     }
-
-请将上述内容写到 student.xls 文件中，如下图所示：
-
-![student.xls](http://i.imgur.com/nPDlpme.jpg)
+```
+请将上述内容写到 student.xls 文件中
 
 - [阅读资料](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) 腾讯游戏开发 XML 和 Excel 内容相互转换
 
 - [ ] **第 0015 题：** 纯文本文件 city.txt为城市信息, 里面的内容（包括花括号）如下所示：
-
+```
     {
         "1" : "上海",
         "2" : "北京",
         "3" : "成都"
     }
-
-请将上述内容写到 city.xls 文件中，如下图所示：
-
-![city.xls](http://i.imgur.com/rOHbUzg.png)
+```
+请将上述内容写到 city.xls 文件中
 
 
 - [ ] **第 0016 题：** 纯文本文件 numbers.txt, 里面的内容（包括方括号）如下所示：
@@ -88,9 +84,7 @@
     	[26, 809, 1024]
     ]
 
-请将上述内容写到 numbers.xls 文件中，如下图所示：
-
-![numbers.xls](http://i.imgur.com/iuz0Pbv.png)
+请将上述内容写到 numbers.xls 文件中
 
 - [ ] **第 0017 题：** 将 第 0014 题中的 student.xls 文件中的内容写到 student.xml 文件中，如
 
@@ -111,10 +105,9 @@
     </students>
     </root>
 
-- [阅读资料](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) 腾讯游戏开发 xml 和 Excel 相互转换
 
 - [ ] **第 0018 题：** 将 第 0015 题中的 city.xls 文件中的内容写到 city.xml 文件中，如下所示：
-
+   ```
     <?xmlversion="1.0" encoding="UTF-8"?>
     <root>
     <citys>
@@ -128,11 +121,11 @@
     }
     </citys>
     </root>
-
+```
 - [ ] **第 0019 题：** 将 第 0016 题中的 numbers.xls 文件中的内容写到 numbers.xml 文件中，如下
 
 所示：
-
+```
     <?xml version="1.0" encoding="UTF-8"?>
     <root>
     <numbers>
@@ -148,7 +141,7 @@
 
     </numbers>
     </root>
-
+```
 - [ ] **第 0020 题：** [登陆中国联通网上营业厅](http://iservice.10010.com/index_.html) 后选择「自助服务」 --> 「详单查询」，然后选择你要查询的时间段，点击「查询」按钮，查询结果页面的最下方，点击「导出」，就会生成类似于 2014年10月01日～2014年10月31日通话详单.xls 文件。写代码，对每月通话时间做个统计。
 
 - [ ] **第 0021 题：** 通常，登陆某个网站或者 APP，需要使用用户名和密码。密码是如何加密后存储起来的呢？请使用 Python 对密码加密。
@@ -165,9 +158,9 @@
 
 [阅读资料：Python 有哪些 Web 框架](http://v2ex.com/t/151643#reply53)
 
-  - ![留言簿参考](http://i.imgur.com/VIyCZ0i.jpg)
+![留言簿参考](http://i.imgur.com/VIyCZ0i.jpg)
 
 
 - [ ] **第 0024 题：** 使用 Python 的 Web 框架，做一个 Web 版本 TodoList 应用。
 
-  - ![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
+![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
