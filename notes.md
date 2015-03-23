@@ -20,3 +20,5 @@ When the Python interpreter reads a source file, it executes all of the code fou
   1. 文字处理：`re`, `string`, `textwrap`
   2. 日期和时间：`time`, `datetime`
   3. 数学运算：`numpy`
+
+- [Free Blog with Github Pages](http://dylanninin.com/blog/2013/11/02/free_blogs.html)
