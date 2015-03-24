@@ -18,4 +18,6 @@ elif num < 10:
     draw.text((214, 3), str(num), font=number_font)
 else:
     draw.text((204, 3), str(num), font=number_font)
-img.save('0000-out3.png')
+    
+if __name__ == "__main__":
+    img.save('0000-out1.png')
