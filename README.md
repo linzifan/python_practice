@@ -1,6 +1,7 @@
 ## Python 练习册，每天一个小程序 ##
 
-> Credit: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
+> Credit: 0000 - 0024: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
+0025: [An Introduction to Interactive Programming in Python (Part 2)](https://class.coursera.org/interactivepython2-002/lecture)
 
 #### 说明： ####
 
@@ -164,3 +165,5 @@
 - [ ] **第 0024 题：** 使用 Python 的 Web 框架，做一个 Web 版本 TodoList 应用。
 
 ![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
+
+- [x] **第 0025 题：** Randomly generate a mapping of cipher. Use it to encode and decode some phrases.
