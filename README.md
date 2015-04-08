@@ -1,14 +1,12 @@
 ## Python 练习册，每天一个小程序 ##
 
-> Credit: 0000 - 0024: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
-0025: [An Introduction to Interactive Programming in Python (Part 2)](https://class.coursera.org/interactivepython2-002/lecture)
+> Credit: 
 
-#### 说明： ####
+> 0000 - 0024: [Show-Me-the-Code](https://github.com/Show-Me-the-Code/show-me-the-code)
 
-- 本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！
+> 0025: [An Introduction to Interactive Programming in Python (Part 2)](https://class.coursera.org/interactivepython2-002/lecture)
 
 
-----------
 
 - [x] **第 0000 题：**将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
 
@@ -32,7 +30,7 @@
 
 - [x] **第 0010 题：**使用 Python 生成类似于下图中的**字母验证码图片**
 
-![字母验证码](http://i.imgur.com/aVhbegV.jpg)
+    ![字母验证码](http://i.imgur.com/aVhbegV.jpg)
 
 
 - [ ] ~~**第 0011 题：**~~ 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。
@@ -90,7 +88,7 @@
 - [ ] **第 0017 题：** 将 第 0014 题中的 student.xls 文件中的内容写到 student.xml 文件中，如
 
 下所示：
-
+```
     <?xml version="1.0" encoding="UTF-8"?>
     <root>
     <students>
@@ -105,11 +103,10 @@
     }
     </students>
     </root>
-
+```
 
 - [ ] **第 0018 题：** 将 第 0015 题中的 city.xls 文件中的内容写到 city.xml 文件中，如下所示：
-
-   ```
+```
     <?xmlversion="1.0" encoding="UTF-8"?>
     <root>
     <citys>
