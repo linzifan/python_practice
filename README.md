@@ -154,13 +154,29 @@
 
 - [ ] **第 0023 题：** 使用 Python 的 Web 框架，做一个 Web 版本 留言簿 应用。
 
-[阅读资料：Python 有哪些 Web 框架](http://v2ex.com/t/151643#reply53)
+  - 阅读资料[Python 有哪些 Web 框架](http://v2ex.com/t/151643#reply53)
 
-![留言簿参考](http://i.imgur.com/VIyCZ0i.jpg)
+    ![留言簿参考](http://i.imgur.com/VIyCZ0i.jpg)
 
 
 - [ ] **第 0024 题：** 使用 Python 的 Web 框架，做一个 Web 版本 TodoList 应用。
 
-![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
+    ![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
 
 - [x] **第 0025 题：** Randomly generate a mapping of cipher. Use it to encode and decode some phrases.
+- [ ] **第 0026 题：** *Exercises for Recursion* Write a function `triangular_sum(num)` that computes the arithmetic sum 0+1+2...+(num−1)+num. For example, `triangular_sum(3)` should return 6. Note that this sum can be computed directly via a simple arithmetic formula, but use a recursive approach instead.
+
+Write a function number_of_threes(num) that returns the number of times the digit 3 appears in the decimal representation of the non-negative integer num. For example number_of_threes(34534) should return 2. Solution 
+
+Write a function is_member(my_list, elem) that returns True if elem is a member of my_list and False otherwise. For example, is_member(['c', 'a', 't'], 'a']) should return True. Do not use any of Python's built-in list methods or an operator like in. Solution 
+
+Write a function remove_x(my_string) that takes the string my_string and deletes all occurrences of the character 'x' from this string. For example, remove_x("catxxdogx") should return "catdog". You should not use Python's built-in string methods. Solution 
+
+Write a function insert_x(my_string) that takes the string my_string and adds the character 'x' between each pair of consecutive characters in the string. For example, insert_x("catdog") should return "cxaxtxdxoxg". Solution 
+
+Write a function list_reverse(my_list) that takes a list and returns a new list whose elements appear in reversed order. For example, list_reverse([2, 3, 1] should return [1, 3, 2]. Do not use the reverse() method for lists. Solution 
+
+Challenge: Write a function gcd(num1, num2) that takes two non-negative integers and computes the greatest common divisor of num1 and num2. To simplify the problem, you may assume that the greatest common divisor of zero and any non-negative integer is the integer itself. For an extra challenge, your programs should only use subtraction. Hint: If you stuck, try searching for "Euclid's Algorithm". Solution 
+
+Challenge: Write a function slice(my_list, first, last) that takes as input a list my_list and two non-negative integer indices first and last satisfying 0≤first≤last≤n where n is the length of my_list. slice should return the corresponding Python list slice my_list[first:last]. For example, slice(['a', 'b', 'c', 'd', 'e'], 2, 4]) should return ['c', 'd'].
+Important: Your solution should not use Python's built-in slice operator : anywhere in its implementation. Instead use the method pop to remove one element from the input list during each recursion call. (You may mutate the input list to simplify your solution.) 
