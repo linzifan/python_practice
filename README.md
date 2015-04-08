@@ -164,7 +164,7 @@
     ![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
 
 - [x] **第 0025 题：** Randomly generate a mapping of cipher. Use it to encode and decode some phrases.
-- [ ] **第 0026 题：** *Exercises for Recursion* Write a function `triangular_sum(num)` that computes the arithmetic sum 0+1+2...+(num−1)+num. For example, `triangular_sum(3)` should return 6. Note that this sum can be computed directly via a simple arithmetic formula, but use a recursive approach instead.
+- [ ] **第 0026 题：** __Exercises for Recursion__ Write a function `triangular_sum(num)` that computes the arithmetic sum 0+1+2...+(num−1)+num. For example, `triangular_sum(3)` should return 6. Note that this sum can be computed directly via a simple arithmetic formula, but use a recursive approach instead.
 
 Write a function number_of_threes(num) that returns the number of times the digit 3 appears in the decimal representation of the non-negative integer num. For example number_of_threes(34534) should return 2. Solution 
 
