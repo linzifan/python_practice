@@ -6,7 +6,7 @@
 
 > 0025: [An Introduction to Interactive Programming in Python (Part 2)](https://class.coursera.org/interactivepython2-002/lecture)
 
-> 0025: [Principles of Computing (Part 2)](https://class.coursera.org/principlescomputing2-002/wiki/view?page=practice_recursion)
+> 0026 - 0033: [Principles of Computing (Part 2)](https://class.coursera.org/principlescomputing2-002/wiki/view?page=practice_recursion)
 
 
 
