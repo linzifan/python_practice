@@ -1,123 +1,1 @@
-City,Country,IATA,ICAO,Airport
-Abu Dhabi,United Arab Emirates,AUH,OMAA,Abu Dhabi International Airport
-Aksu,People's Republic of China,AKU,ZWAK,Aksu Airport
-Almaty,Kazakhstan,ALA,UAAA,Almaty International Airport
-Ankang,People's Republic of China,AKA,ZLAK,Ankang Airport
-Anshan,People's Republic of China,AOG,ZYAS,Anshan Teng'ao Airport
-Baise,People's Republic of China,AEB,GBS,Baise Youjiang Airport
-Bangkok,Thailand,BKK,VTBS,Suvarnabhumi Airport
-Baotou,People's Republic of China,BAV,ZBOW,Baotou Erliban Airport
-Beijing,People's Republic of China,PEK,ZBAA,Beijing Capital International Airport
-Berlin,Germany,TXL,EDDT,Berlin Tegel Airport
-Birmingham,United Kingdom,BHX,EGBB,Birmingham Airport [charter]
-Bishkek,Kyrgyzstan,FRU,UAFM,Manas International Airport
-Boston,United States,BOS,KBOS,Logan International Airport
-Brussels,Belgium,BRU,EBBR,Brussels Airport
-Budapest,Hungary,BUD,LHBP,Budapest Ferenc Liszt International Airport
-Busan,Korea,PUS,RKPK,Gimhae International Airport
-Cairo,Egypt,CAI,HECA,Cairo International Airport
-Cebu,Philippines,CEB,RPVM,Mactan-Cebu International Airport
-Changchun,People's Republic of China,CGQ,ZYCC,Longjia International Airport
-Changsha,People's Republic of China,CSX,ZGCS,Huanghua International Airport
-Changzhi,People's Republic of China,CIH,ZBCZ,Changzhi Wangcun Airport
-Chengdu,People's Republic of China,CTU,ZUUU,Shuangliu International Airport
-Chicago,United States,ORD,KORD,O'Hare International Airport
-Chifeng,People's Republic of China,CIF,ZBCF,Chifeng Yulong Airport
-Chita,Russia,HTA,UIAA,Kadala Airport
-Chongqing,People's Republic of China,CKG,ZUCK,Jiangbei International Airport
-Dalian,People's Republic of China,DLC,ZYTL,Zhoushuizi International Airport
-Datong,People's Republic of China,DAT,ZBDT,Datong Airport
-Denpasar,Indonesia,DPS,WADD,Ngurah Rai International Airport
-Dongying,People's Republic of China,DOY,ZSDY,Dongying Shengli Airport
-Dubai,United Arab Emirates,DXB,OMDB,Dubai International Airport
-Dunhuang,People's Republic of China,DNH,ZLDH,Dunhuang Airport
-Enshi,People's Republic of China,ENH,ZHES,Enshi Airport
-Fuyang,People's Republic of China,FUG,ZSFY,Fuyang Xiguan Airport
-Fuzhou,People's Republic of China,FOC,ZSFZ,Changle International Airport
-Guangzhou,People's Republic of China,CAN,ZGGG,Baiyun International Airport
-Guiyang,People's Republic of China,KWE,ZUGY,Longdongbao International Airport
-Guilin,People's Republic of China,KWL,ZGKL,Liangjiang International Airport
-Haikou,People's Republic of China,HAK,ZJHK,Meilan International Airport
-Hailar,People's Republic of China,HLD,ZBLA,Hulunbuir Hailar Airport
-Hangzhou,People's Republic of China,HGH,ZSHC,Xiaoshan International Airport
-Hanoi,Vietnam,HAN,VVNB,Noi Bai International Airport
-Hanzhong,People's Republic of China,HZG,ZLHZ,Hanzhong Xiguan Airport
-Harbin,People's Republic of China,HRB,ZYHB,Taiping International Airport
-Hefei,People's Republic of China,HFE,ZSOF,Luogang International Airport
-Hefei,People's Republic of China,HFE,ZSOF,Hefei Xinqiao International Airport
-Ho Chi Minh City,Vietnam,SGN,VVTS,Tan Son Nhat International Airport
-Hohhot,People's Republic of China,HET,ZBHH,Hohhot Baita International Airport
-Hong Kong,Hong Kong,HKG,VHHH,Hong Kong International Airport
-Huai'an,People's Republic of China,HIA,ZSSH,Huaian Lianshui Airport
-Irkutsk,Russia,IKT,UIII,Irkutsk International Airport
-Jiamusi,People's Republic of China,JMU,ZYJM,Jiamusi Airport
-Jinan,People's Republic of China,TNA,ZSJN,Yaoqiang International Airport
-Jinzhou,People's Republic of China,JNZ,ZYJZ,Jinzhou Xiaolingzi Airport
-Kashgar,People's Republic of China,KHG,ZWSH,Kashgar Airport
-Korla,People's Republic of China,KRL,ZWKL,Korla Airport
-Khartoum,Sudan,KRT,HSSS,Khartoum International Airport
-Kolkata,India,CCU,VECC,Netaji Subhas Chandra Bose International Airport
-Krasnoyarsk,Russia,KJA,UNKL,Yemelyanovo International Airport
-Kunming,People's Republic of China,KMG,ZPPP,Kunming Changshui International Airport
-Lanzhou,People's Republic of China,LHW,ZLLL,Lanzhou Airport
-Lhasa,People's Republic of China,LXA,ZULS,Lhasa Gonggar Airport
-Linyi,People's Republic of China,LYI,ZSLY,Linyi Shubuling Airport
-Luanda,Angola,LAD,FNLU,Quatro de Fevereiro Airport
-Macau,Macao,MFM,VMMC,Macau International Airport
-Manzhouli,People's Republic of China,NZH,ZBMZ,Manzhouli Xijiao Airport
-Moscow,Russia,SVO,UUEE,Sheremetyevo International Airport
-Mudanjiang,People's Republic of China,MDG,ZYMD,Mudanjiang Airport
-Nanchang,People's Republic of China,KHN,ZSCN,Changbei International Airport
-Nanjing,People's Republic of China,NKG,ZSNJ,Lukou International Airport
-Nanning,People's Republic of China,NNG,ZGNN,Wuxu International Airport
-Ningbo,People's Republic of China,NGB,ZSNB,Ningbo Lishe International Airport
-Novosibirsk,Russia,OVB,UNNT,Novosibirsk Tolmachevo Airport
-Okinawa,Japan,OKA,ROAH,Naha Airport
-Ordos,People's Republic of China,DSN,ZBCF,Ordos Ejin Horo Airport
-Paris,France,CDG,LFPG,Charles de Gaulle Airport
-Phuket,Thailand,HKT,VTSP,Phuket International Airport
-Qingdao,People's Republic of China,TAO,ZSQD,Liuting International Airport
-Qiqihar,People's Republic of China,NDG,ZYQQ,Qiqihar Airport
-Quanzhou,People's Republic of China,JJN,ZSQZ,Quanzhou Jinjiang Airport
-Qingyang,People's Republic of China,IQN,ZLQY,Qingyang Airport
-San Jose,United States,SJC,KSJC,San Jose International Airport
-Sanya,People's Republic of China,SYX,ZJSY,Sanya Phoenix International Airport
-Shanghai,People's Republic of China,SHA,ZSPD,Hongqiao International Airport
-Shanghai,People's Republic of China,PVG,ZSSS,Pudong International Airport
-Shantou,People's Republic of China,SWA,ZGOW,Chaoshan Airport
-Shenyang,People's Republic of China,SHE,ZYTX,Taoxian International Airport
-Shenzhen,People's Republic of China,SZX,ZGSC,Bao'an International Airport
-Shijiazhuang,People's Republic of China,SJW,ZSHC,Shijiazhuang Daguocun International Airport
-Seattle,United States,SEA,KSEA,Seattle-Tacoma International Airport
-Singapore,Singapore,SIN,WSSS,Singapore Changi Airport
-St. Petersburg,Russia,LED,ULLI,Pulkovo Airport
-Sydney,Australia,SYD,YSSY,Sydney Airport
-Taipei,Taiwan,TPE,RCTP,Taiwan Taoyuan International Airport
-Taiyuan,People's Republic of China,TYN,ZBYN,Taiyuan Wusu International Airport
-Tel Aviv,Israel,TLV,LLBG,Tel Aviv Airport
-Tianjin,People's Republic of China,TSN,ZBTJ,Binhai International Airport
-Tongliao,People's Republic of China,TGO,ZBTL,Tongliao Airport
-Toronto,Canada,YYZ,CYYZ,Toronto Pearson International Airport
-Ulanhot,People's Republic of China,HLH,ZBUL,Ulanhot Airport
-Urumqi,People's Republic of China,URC,ZWWW,Diwopu International Airport
-Weifang,People's Republic of China,WEF,ZSWF,Weifang Airport
-Wenzhou,People's Republic of China,WNZ,ZSWZ,Yongqiang Airport
-Wuhai,People's Republic of China,WUA,ZBUH,Wuhai Airport
-Wuhan,People's Republic of China,WUH,ZHHH,Tianhe International Airport
-Xiamen,People's Republic of China,XMN,ZSAM,Gaoqi International Airport
-Xi'an,People's Republic of China,XIY,ZLXY,Xianyang International Airport
-Xiangyang,People's Republic of China,XFN,ZHXF,Xiangyang Liuji Airport
-Xining,People's Republic of China,XNN,ZLXN,Xining Caojiabu Airport
-Xuzhou,People's Republic of China,XUZ,ZSXZ,Xuzhou Airport
-Yan'an,People's Republic of China,ENY,ZLYA,Yan'an Ershilipu Airport
-Yancheng,People's Republic of China,YNZ,ZSYN,Yancheng Airport
-Yangzhou,People's Republic of China,YTY,ZSYA,Yangzhou Taizhou Airport
-Yekaterinburg,Russia,SVX,USSS,Koltsovo Airport
-Yichang,People's Republic of China,YIH,ZHYC,Yichang Airport
-Yinchuan,People's Republic of China,INC,ZLIC,Yinchuan Hedong Airport
-Yulin,People's Republic of China,UYN,ZLYL,Yulin Yuyang Airport
-Yuncheng,People's Republic of China,YCU,ZBYC,Yuncheng Guangong Airport
-Zhanjiang,People's Republic of China,ZHA,ZGZJ,Zhanjiang Airport
-Zhengzhou,People's Republic of China,CGO,ZHCC,Xinzheng International Airport
-Zhuhai,People's Republic of China,ZUH,ZGSD,Zhuhai Jinwan Airport
-Zurich,Switzerland,ZRH,LSZH,Zurich Airport
+City,Country,IATA,ICAO,AirportAbu Dhabi,United Arab Emirates,AUH,OMAA,Abu Dhabi International AirportAksu,People's Republic of China,AKU,ZWAK,Aksu AirportAlmaty,Kazakhstan,ALA,UAAA,Almaty International AirportAnkang,People's Republic of China,AKA,ZLAK,Ankang AirportAnshan,People's Republic of China,AOG,ZYAS,Anshan Teng'ao AirportBaise,People's Republic of China,AEB,GBS,Baise Youjiang AirportBangkok,Thailand,BKK,VTBS,Suvarnabhumi AirportBaotou,People's Republic of China,BAV,ZBOW,Baotou Erliban AirportBeijing,People's Republic of China,PEK,ZBAA,Beijing Capital International AirportBerlin,Germany,TXL,EDDT,Berlin Tegel AirportBirmingham,United Kingdom,BHX,EGBB,Birmingham Airport [charter]Bishkek,Kyrgyzstan,FRU,UAFM,Manas International AirportBoston,United States,BOS,KBOS,Logan International AirportBrussels,Belgium,BRU,EBBR,Brussels AirportBudapest,Hungary,BUD,LHBP,Budapest Ferenc Liszt International AirportBusan,Korea,PUS,RKPK,Gimhae International AirportCairo,Egypt,CAI,HECA,Cairo International AirportCebu,Philippines,CEB,RPVM,Mactan-Cebu International AirportChangchun,People's Republic of China,CGQ,ZYCC,Longjia International AirportChangsha,People's Republic of China,CSX,ZGCS,Huanghua International AirportChangzhi,People's Republic of China,CIH,ZBCZ,Changzhi Wangcun AirportChengdu,People's Republic of China,CTU,ZUUU,Shuangliu International AirportChicago,United States,ORD,KORD,O'Hare International AirportChifeng,People's Republic of China,CIF,ZBCF,Chifeng Yulong AirportChita,Russia,HTA,UIAA,Kadala AirportChongqing,People's Republic of China,CKG,ZUCK,Jiangbei International AirportDalian,People's Republic of China,DLC,ZYTL,Zhoushuizi International AirportDatong,People's Republic of China,DAT,ZBDT,Datong AirportDenpasar,Indonesia,DPS,WADD,Ngurah Rai International AirportDongying,People's Republic of China,DOY,ZSDY,Dongying Shengli AirportDubai,United Arab Emirates,DXB,OMDB,Dubai International AirportDunhuang,People's Republic of China,DNH,ZLDH,Dunhuang AirportEnshi,People's Republic of China,ENH,ZHES,Enshi AirportFuyang,People's Republic of China,FUG,ZSFY,Fuyang Xiguan AirportFuzhou,People's Republic of China,FOC,ZSFZ,Changle International AirportGuangzhou,People's Republic of China,CAN,ZGGG,Baiyun International AirportGuiyang,People's Republic of China,KWE,ZUGY,Longdongbao International AirportGuilin,People's Republic of China,KWL,ZGKL,Liangjiang International AirportHaikou,People's Republic of China,HAK,ZJHK,Meilan International AirportHailar,People's Republic of China,HLD,ZBLA,Hulunbuir Hailar AirportHangzhou,People's Republic of China,HGH,ZSHC,Xiaoshan International AirportHanoi,Vietnam,HAN,VVNB,Noi Bai International AirportHanzhong,People's Republic of China,HZG,ZLHZ,Hanzhong Xiguan AirportHarbin,People's Republic of China,HRB,ZYHB,Taiping International AirportHefei,People's Republic of China,HFE,ZSOF,Hefei Xinqiao International AirportHo Chi Minh City,Vietnam,SGN,VVTS,Tan Son Nhat International AirportHohhot,People's Republic of China,HET,ZBHH,Hohhot Baita International AirportHong Kong,Hong Kong,HKG,VHHH,Hong Kong International AirportHuai'an,People's Republic of China,HIA,ZSSH,Huaian Lianshui AirportIrkutsk,Russia,IKT,UIII,Irkutsk International AirportJiamusi,People's Republic of China,JMU,ZYJM,Jiamusi AirportJinan,People's Republic of China,TNA,ZSJN,Yaoqiang International AirportJinzhou,People's Republic of China,JNZ,ZYJZ,Jinzhou Xiaolingzi AirportKashgar,People's Republic of China,KHG,ZWSH,Kashgar AirportKorla,People's Republic of China,KRL,ZWKL,Korla AirportKhartoum,Sudan,KRT,HSSS,Khartoum International AirportKolkata,India,CCU,VECC,Netaji Subhas Chandra Bose International AirportKrasnoyarsk,Russia,KJA,UNKL,Yemelyanovo International AirportKunming,People's Republic of China,KMG,ZPPP,Kunming Changshui International AirportLanzhou,People's Republic of China,LHW,ZLLL,Lanzhou AirportLhasa,People's Republic of China,LXA,ZULS,Lhasa Gonggar AirportLinyi,People's Republic of China,LYI,ZSLY,Linyi Shubuling AirportLos Angeles,United States,LAX,KLAX,Los Angeles International AirportLuanda,Angola,LAD,FNLU,Quatro de Fevereiro AirportMacau,Macao,MFM,VMMC,Macau International AirportManzhouli,People's Republic of China,NZH,ZBMZ,Manzhouli Xijiao AirportMoscow,Russia,SVO,UUEE,Sheremetyevo International AirportMudanjiang,People's Republic of China,MDG,ZYMD,Mudanjiang AirportNanchang,People's Republic of China,KHN,ZSCN,Changbei International AirportNanjing,People's Republic of China,NKG,ZSNJ,Lukou International AirportNanning,People's Republic of China,NNG,ZGNN,Wuxu International AirportNingbo,People's Republic of China,NGB,ZSNB,Ningbo Lishe International AirportNovosibirsk,Russia,OVB,UNNT,Novosibirsk Tolmachevo AirportOkinawa,Japan,OKA,ROAH,Naha AirportOrdos,People's Republic of China,DSN,ZBCF,Ordos Ejin Horo AirportOsaka,Japan,KIX,RJBB,Kansai International AirportParis,France,CDG,LFPG,Charles de Gaulle AirportPhuket,Thailand,HKT,VTSP,Phuket International AirportQingdao,People's Republic of China,TAO,ZSQD,Liuting International AirportQiqihar,People's Republic of China,NDG,ZYQQ,Qiqihar AirportQuanzhou,People's Republic of China,JJN,ZSQZ,Quanzhou Jinjiang AirportQingyang,People's Republic of China,IQN,ZLQY,Qingyang AirportSan Jose,United States,SJC,KSJC,San Jose International AirportSanya,People's Republic of China,SYX,ZJSY,Sanya Phoenix International AirportShanghai,People's Republic of China,SHA,ZSPD,Hongqiao International AirportShanghai,People's Republic of China,PVG,ZSSS,Pudong International AirportShantou,People's Republic of China,SWA,ZGOW,Chaoshan AirportShenyang,People's Republic of China,SHE,ZYTX,Taoxian International AirportShenzhen,People's Republic of China,SZX,ZGSC,Bao'an International AirportShijiazhuang,People's Republic of China,SJW,ZSHC,Shijiazhuang Daguocun International AirportSeattle,United States,SEA,KSEA,Seattle-Tacoma International AirportSingapore,Singapore,SIN,WSSS,Singapore Changi AirportSt. Petersburg,Russia,LED,ULLI,Pulkovo AirportSydney,Australia,SYD,YSSY,Sydney AirportTaipei,Taiwan,TPE,RCTP,Taiwan Taoyuan International AirportTaiyuan,People's Republic of China,TYN,ZBYN,Taiyuan Wusu International AirportTel Aviv,Israel,TLV,LLBG,Ben Gurion International AirportTianjin,People's Republic of China,TSN,ZBTJ,Binhai International AirportTokyo,Japan,HND,RJTT,Haneda AirportTongliao,People's Republic of China,TGO,ZBTL,Tongliao AirportToronto,Canada,YYZ,CYYZ,Toronto Pearson International AirportUlanhot,People's Republic of China,HLH,ZBUL,Ulanhot AirportUrumqi,People's Republic of China,URC,ZWWW,Diwopu International AirportWeifang,People's Republic of China,WEF,ZSWF,Weifang AirportWenzhou,People's Republic of China,WNZ,ZSWZ,Yongqiang AirportWuhai,People's Republic of China,WUA,ZBUH,Wuhai AirportWuhan,People's Republic of China,WUH,ZHHH,Tianhe International AirportXiamen,People's Republic of China,XMN,ZSAM,Gaoqi International AirportXi'an,People's Republic of China,XIY,ZLXY,Xianyang International AirportXiangyang,People's Republic of China,XFN,ZHXF,Xiangyang Liuji AirportXining,People's Republic of China,XNN,ZLXN,Xining Caojiabu AirportXuzhou,People's Republic of China,XUZ,ZSXZ,Xuzhou AirportYan'an,People's Republic of China,ENY,ZLYA,Yan'an Ershilipu AirportYancheng,People's Republic of China,YNZ,ZSYN,Yancheng AirportYangzhou,People's Republic of China,YTY,ZSYA,Yangzhou Taizhou AirportYekaterinburg,Russia,SVX,USSS,Koltsovo AirportYichang,People's Republic of China,YIH,ZHYC,Yichang AirportYinchuan,People's Republic of China,INC,ZLIC,Yinchuan Hedong AirportYulin,People's Republic of China,UYN,ZLYL,Yulin Yuyang AirportYuncheng,People's Republic of China,YCU,ZBYC,Yuncheng Guangong AirportZhanjiang,People's Republic of China,ZHA,ZGZJ,Zhanjiang AirportZhengzhou,People's Republic of China,CGO,ZHCC,Xinzheng International AirportZhuhai,People's Republic of China,ZUH,ZGSD,Zhuhai Jinwan AirportZurich,Switzerland,ZRH,LSZH,Zurich Airport
