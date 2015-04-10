@@ -114,7 +114,7 @@ UNION
 SELECT MU.IATA, CA.CA, MU.MU FROM CA
 RIGHT JOIN MU 
 ON CA.IATA = MU.IATA;
-
+# Then add CZ
 CREATE TABLE allairline2 AS
 SELECT allairline.*, CZ.CZ FROM allairline
 LEFT JOIN CZ
@@ -123,7 +123,7 @@ UNION
 SELECT CZ.IATA, allairline.CA, allairline.MU, CZ.CZ FROM allairline
 RIGHT JOIN CZ
 ON allairline.IATA = CZ.IATA;
-
+# Finally add HU
 CREATE TABLE allairline3 AS
 SELECT allairline2.*, HU.HU FROM allairline2
 LEFT JOIN HU
@@ -135,6 +135,23 @@ ON allairline2.IATA = HU.IATA;
 
 select * from allairline3 order by IATA;
 # So far we have a table 'allairline3' with all destinations
+
+# ALL IATA + city + country
+CREATE TABLE CityDic AS
+SELECT IATA, City, Country FROM CA
+UNION
+SELECT IATA, City, Country FROM MU
+UNION
+SELECT IATA, City, Country FROM CZ
+UNION
+SELECT IATA, City, Country FROM HU
+ORDER BY IATA;
+
+# Next, add city and country
+SELECT CityDic.City, CityDIc.Country, allairline3.*
+FROM allairline3 LEFT JOIN CityDic ON allairline3.IATA = CityDic.IATA
+ORDER BY City;
+
 
 # Method 2
 SELECT IATA, CA, MU, CZ, HU FROM CA
