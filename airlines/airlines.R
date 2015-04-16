@@ -20,3 +20,4 @@ names(sort(summary(allairline$Country), decreasing = TRUE))
 
 text(x= sort(summary(allairline$Country), decreasing = TRUE)+0.3, y= bplt, 
      labels=sort(summary(allairline$Country), decreasing = TRUE), xpd=TRUE)
+
